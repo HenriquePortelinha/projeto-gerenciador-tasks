@@ -1,0 +1,10 @@
+1-desenvolver um sistema de gerenciamento de tarefas (task manager) 
+2 -que permita aos usuários 
+3 -criar, 
+4 - editar e 
+5- excluir tarefas, além de 
+6 -organizar essas tarefas em diferentes categorias. 
+7 -Você pode implementar autenticação de usuários, 
+8 -filtros de tarefas por status(concluídas, pendentes) e até 
+9 -integração com serviços de notificações 
+ (como envio de e-mails para lembretes).
